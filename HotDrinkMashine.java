@@ -140,6 +140,7 @@ public class HotDrinkMashine implements WendingMashine{
                     }
                     this.get_product(dr);
                     step2=false;
+                    break;
                 }
 
             }
